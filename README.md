@@ -1,2 +1,4 @@
-# Average_Calculator
-Creating an Average Calculator in Python and running it on the browser using PyScript!
+# Average Calculator!
+
+This is a simple program that calculates the average of a list of numbers. It is written in Python 3.9.16.
+The program runs over the browser using PyScript!
